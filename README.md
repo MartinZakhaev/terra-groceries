@@ -101,11 +101,7 @@ Project Link: https://github.com/MartinZakhaev/terra-groceries
 I would like to express my gratitude to the following individuals, organizations, and / or resources for their invaluable contributions and support in making this project a reality:
 
 * [Choose an Open Source License](https://choosealicense.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Js](https://react.dev/)
-* [Node Js]( https://nodejs.org/en)
-* [Express Js](https://expressjs.com/)
-* [React Hot Toast](https://react-hot-toast.com/)
+* [Java](https://www.java.com/en/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
