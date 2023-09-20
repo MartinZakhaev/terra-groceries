@@ -59,8 +59,7 @@
 ![image](https://github.com/MartinZakhaev/terra-groceries/assets/78039794/937e6731-a0a8-4630-bd97-396267389e7c)
 ![image](https://github.com/MartinZakhaev/terra-groceries/assets/78039794/95f859e3-937b-4dc8-85d4-4b55a1585e9d)
 ![image](https://github.com/MartinZakhaev/terra-groceries/assets/78039794/9369aaba-86d3-48cb-8682-c1265901faca)
-![image](https://github.com/MartinZakhaev/terra-groceries/assets/78039794/7ff808d9-7c31-42e0-9758-d18248ebbd65)
-![image](https://github.com/MartinZakhaev/terra-groceries/assets/78039794/12395a0c-dbde-4a91-ba40-9730583961a2)
+![image](https://github.com/MartinZakhaev/terra-groceries/assets/78039794/4d922292-9165-4655-85de-7d5a14887014)
 
 
 Welcome to Terra Corner, a web-based chatting application that aims to connect users through channels and direct messages (DMs). This project focuses on creating an interactive and user-friendly platform where users can communicate, collaborate, and build communities. With Terra Corner, you can create channels, invite other users, and have private conversations with ease.
