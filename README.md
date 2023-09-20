@@ -62,18 +62,14 @@
 ![image](https://github.com/MartinZakhaev/terra-groceries/assets/78039794/4d922292-9165-4655-85de-7d5a14887014)
 
 
-Welcome to Terra Corner, a web-based chatting application that aims to connect users through channels and direct messages (DMs). This project focuses on creating an interactive and user-friendly platform where users can communicate, collaborate, and build communities. With Terra Corner, you can create channels, invite other users, and have private conversations with ease.
+Terra Groceries is your go-to desktop application for a seamless grocery shopping experience. With two distinct parts, the admin side and the client side, this versatile app empowers both store owners and shoppers alike.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
-* [![React.Js][React.Js]][React-url]
-* [![Node.Js][Node.Js]][Node-url]
-* [![Express][Express.Js]][Express-url]
-* [![HTML][HTML5]][HTML-url]
-* [![CSS][CSS3]][CSS-url]
-* [![JS][JavaScript]][JS-url]
+* [![Java][Java]][Java-url]
+* [![MySQL][MySQL]][MySQL-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -133,3 +129,7 @@ I would like to express my gratitude to the following individuals, organizations
 [CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [JavaScript]: https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript
 [JS-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[Java]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+[Java-url]: https://www.java.com/en/
+[MySQL]: https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+[MySQL-url]: https://www.mysql.com/
