@@ -25,11 +25,11 @@
     Where Conversations Connect
     <br />
     <br />
-    <a href="https://terra-corner.vercel.app/">View Demo</a>
+    <a href="#">View Demo</a>
     ·
-    <a href="https://github.com/MartinZakhaev/terra-corner-frontend/issues">Report Bug</a>
+    <a href="https://github.com/MartinZakhaev/terra-groceries/issues">Report Bug</a>
     ·
-    <a href="https://github.com/MartinZakhaev/terra-corner-frontend/issues">Request Feature</a>
+    <a href="https://github.com/MartinZakhaev/terra-groceries/issues">Request Feature</a>
   </p>
 </div>
 
