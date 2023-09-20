@@ -89,7 +89,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Andika Wahyu Syaputra - andikawahyusyaputra@gmail.com
 
-Project Link: https://github.com/MartinZakhaev/terra-corner-frontend
+Project Link: https://github.com/MartinZakhaev/terra-groceries
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
