@@ -19,7 +19,7 @@
     <img src="https://github.com/MartinZakhaev/terra-corner-frontend/assets/78039794/608f6802-bdeb-454c-a97a-a6a9fbe2ea0b" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">TERRA CORNER</h3>
+  <h3 align="center">TERRA GROCERIES</h3>
 
   <p align="center">
     Where Conversations Connect
@@ -56,10 +56,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![image](https://github.com/MartinZakhaev/terra-corner-frontend/assets/78039794/9313d1f8-235c-4193-8293-3078dd36fd1f)
-![image](https://github.com/MartinZakhaev/terra-corner-frontend/assets/78039794/35b334d3-0811-46b2-911a-f2456d7df955)
-![image](https://github.com/MartinZakhaev/terra-corner-frontend/assets/78039794/c30fe5ec-6e2b-42da-bc87-06c49ce057e2)
-![image](https://github.com/MartinZakhaev/terra-corner-frontend/assets/78039794/ac3f17b7-50a1-4728-bc03-ff2fa9eff1b7)
+![image](https://github.com/MartinZakhaev/terra-groceries/assets/78039794/937e6731-a0a8-4630-bd97-396267389e7c)
+![image](https://github.com/MartinZakhaev/terra-groceries/assets/78039794/95f859e3-937b-4dc8-85d4-4b55a1585e9d)
+![image](https://github.com/MartinZakhaev/terra-groceries/assets/78039794/9369aaba-86d3-48cb-8682-c1265901faca)
+![image](https://github.com/MartinZakhaev/terra-groceries/assets/78039794/7ff808d9-7c31-42e0-9758-d18248ebbd65)
+![image](https://github.com/MartinZakhaev/terra-groceries/assets/78039794/12395a0c-dbde-4a91-ba40-9730583961a2)
+
 
 Welcome to Terra Corner, a web-based chatting application that aims to connect users through channels and direct messages (DMs). This project focuses on creating an interactive and user-friendly platform where users can communicate, collaborate, and build communities. With Terra Corner, you can create channels, invite other users, and have private conversations with ease.
 
