@@ -102,6 +102,7 @@ I would like to express my gratitude to the following individuals, organizations
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [Java](https://www.java.com/en/)
+* [MySQL](https://www.mysql.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
