@@ -22,7 +22,7 @@
   <h3 align="center">TERRA GROCERIES</h3>
 
   <p align="center">
-    Where Conversations Connect
+    Your Desktop Grocery Haven: Terra Groceries
     <br />
     <br />
     <a href="#">View Demo</a>
